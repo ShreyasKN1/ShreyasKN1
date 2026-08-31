@@ -9,15 +9,19 @@ I’m particularly interested in backend architecture, distributed systems, syst
 
 My engineering approach is practical and systems-focused. 
 
-🌱 What I’m currently learning
+🌱 What I’m currently learning:
+
 I’m continuing to deepen my knowledge in:
-Distributed systems and system design
-Generative AI and Agentic AI
-RAG and AI system evaluation
-Clean architecture, testing and observability
+
+=>Distributed systems and system design
+=>Generative AI and Agentic AI
+=>RAG and AI system evaluation
+=>Clean architecture, testing and observability
 
 I learn by building with turning concepts into working projects and continuously improving my understanding of how modern systems are designed and operated.
 
 🌱 Currently exploring AI-native backend+fullstack engineering, system design and modern Java/cloud technologies.
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I enjoy turning system-design concepts into working implementations rather than leaving them as diagrams.
