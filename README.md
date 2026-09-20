@@ -10,7 +10,7 @@ My core experience currently includes Java, Core Java, Spring Boot, REST APIs, H
 
 
 <h1>Proficient in</h1>
-<div>
+<div style="display: flex; gap: 15px;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/> 
@@ -24,6 +24,12 @@ My core experience currently includes Java, Core Java, Spring Boot, REST APIs, H
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+
+
+
+
+
 
 
 
