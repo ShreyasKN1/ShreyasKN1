@@ -58,3 +58,6 @@ I learn by building with turning concepts into working projects and continuously
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy turning system-design concepts into working implementations rather than leaving them as diagrams.
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShreyasKN1&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
